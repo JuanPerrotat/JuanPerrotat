@@ -1,97 +1,79 @@
+
 # Hola, soy Juan 👋
 
-Soy un desarrollador orientado al ecosistema .NET y C#. Vengo de una formación vinculada a las ciencias sociales y la enseñanza, algo que terminó influyendo bastante en mi forma de pensar el desarrollo: me interesa entender los problemas antes de escribir código, por eso me mantengo en constante formación, y mí objetivo principal es que las soluciones que pueda diseñar tengan utilidad y valor social.
-
-Actualmente trabajo principalmente con tecnologías del ecosistema Microsoft y sigo profundizando en buenas prácticas de desarrollo, arquitectura y herramientas modernas y necesarias.
+Desarrollador backend orientado al ecosistema .NET y C#, con interés en construir software claro, mantenible y con utilidad real.  
+Vengo de una formación en Historia y humanidades, algo que influye bastante en mi forma de pensar el desarrollo: entender los problemas antes de escribir código.
 
 ---
 
-## Tecnologías y herramientas
+## 🚀 Tecnologías
 
 ### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
 
-* C#
-* .NET
-* ASP.NET
-* ASP.NET CORE MVC
-* Entity Framework
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- ### FrontEnd
-
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-
-### Bases de datos
-
-* SQL Server
-
-### Herramientas
-
-* Git
-* GitHub
-* Visual Studio
-* VS Code
-
-### También me interesa
-
-* Arquitectura de software
-* Clean Code
-* Buenas prácticas
-* Performance y mantenibilidad
-* Experiencia de usuario desde el lado del desarrollo
+### Base de datos y herramientas
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Algunos proyectos
+## 📌 Proyectos
 
-### 📌 [Stocker – Sistema de Gestión de Artículos]
+### 🔹 Stocker – Sistema de Gestión de Artículos
+Aplicación web desarrollada con ASP.NET WebForms y C#, orientada a operaciones CRUD y conexión a SQL Server.
 
-Aplicación web desarrollada con ASP.NET WebForms y C#, orientada a la gestión de artículos mediante operaciones completas de tipo CRUD (ABM), en el marco del Curso Nivel 3 C# realizado en Maxi Programa. El proyecto implementa una arquitectura en capas y se conecta a una base de datos SQL, permitiendo administrar información de manera estructurada, validada y persistente.
-
-El desarrollo se encuentra disponible y activo en: http://stocker.somee.com/
+🌐 http://stocker.somee.com/
 
 **Stack:** C#, .NET, SQL Server, ASP.NET
 
 ---
 
-### 📌 [Portfolio]
+### 🔹 Portfolio
+Primer portfolio profesional realizado para presentar proyectos y tecnologías.
 
-Primer portfolio profesional.
-
-**Stack:** HTML, CSS, JS, Bootstrap
-
----
-
-### 📌 [Nombre del proyecto]
-
-Aplicación de escritorio WinForms desarrollada en .NET, orientada a la gestión de artículos mediante operaciones completas de tipo CRUD (ABM) usando conexión a DB con SQL Server Management Studio 2022. Se realiza como trabajo integrador final para la aprobación del curso Nivel 2 de Maxi Programa.
-
-**Stack:** .NET, REST APIs, Git
+**Stack:** HTML, CSS, JavaScript, Bootstrap
 
 ---
 
-## Sobre mí
+### 🔹 Sistema de Gestión WinForms
+Aplicación de escritorio desarrollada en .NET y SQL Server como proyecto integrador final del curso Nivel 2 de Maxi Programa.
 
-Además de programar, me interesan mucho las distintas disciplinas de las humanidades: la Historia, la Filosofía, la literatura y el cine.
-Por esa razón, antes de dedicarme al mundo del software realicé y completé una formación en Historia de nivel universitario en la Universidad de Buenos Aires (UBA).
-
-También disfruto aprender de manera transversal: muchas veces termino conectando ideas de historia, filosofía o arte con la forma en que pienso el desarrollo de software.
+**Stack:** .NET, WinForms, SQL Server
 
 ---
 
-## Actualmente
+## 🧠 Intereses
 
-* Profundizando en desarrollo backend con .NET
-* Mejorando conocimientos de arquitectura y patrones
-* Construyendo proyectos personales
+- Arquitectura de software
+- Clean Code
+- Buenas prácticas
+- Backend development
+- Filosofía, historia y cine
 
 ---
 
-## Contacto
+## 📚 Actualmente
 
-* GitHub: [https://github.com/tu-usuario](https://github.com/tu-usuario)
-* LinkedIn: [https://linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- Profundizando en desarrollo backend con .NET
+- Mejorando conocimientos de arquitectura y patrones
+- Construyendo proyectos personales
 
+---
 
+## 📫 Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPerrotat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-perrotat/)
+```
