@@ -50,7 +50,7 @@ Actualmente trabajo principalmente con tecnologías del ecosistema Microsoft y s
 
 Aplicación web desarrollada con ASP.NET WebForms y C#, orientada a la gestión de artículos mediante operaciones completas de tipo CRUD (ABM), en el marco del Curso Nivel 3 C# realizado en Maxi Programa. El proyecto implementa una arquitectura en capas y se conecta a una base de datos SQL, permitiendo administrar información de manera estructurada, validada y persistente.
 
-El desarrollo se encuentra disponible y activo en: 
+El desarrollo se encuentra disponible y activo en: http://stocker.somee.com/
 
 **Stack:** C#, .NET, SQL Server, ASP.NET
 
