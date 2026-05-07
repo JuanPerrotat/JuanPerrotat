@@ -16,6 +16,13 @@ Actualmente trabajo principalmente con tecnologías del ecosistema Microsoft y s
 * ASP.NET CORE MVC
 * Entity Framework
 
+ ### FrontEnd
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
 ### Bases de datos
 
 * SQL Server
@@ -39,25 +46,27 @@ Actualmente trabajo principalmente con tecnologías del ecosistema Microsoft y s
 
 ## Algunos proyectos
 
-### 📌 [Nombre del proyecto]
+### 📌 [Stocker – Sistema de Gestión de Artículos]
 
-Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usa y qué aprendiste desarrollándolo.
+Aplicación web desarrollada con ASP.NET WebForms y C#, orientada a la gestión de artículos mediante operaciones completas de tipo CRUD (ABM), en el marco del Curso Nivel 3 C# realizado en Maxi Programa. El proyecto implementa una arquitectura en capas y se conecta a una base de datos SQL, permitiendo administrar información de manera estructurada, validada y persistente.
 
-**Stack:** C#, .NET, SQL Server
+El desarrollo se encuentra disponible y activo en: 
+
+**Stack:** C#, .NET, SQL Server, ASP.NET
+
+---
+
+### 📌 [Portfolio]
+
+Primer portfolio profesional.
+
+**Stack:** HTML, CSS, JS, Bootstrap
 
 ---
 
 ### 📌 [Nombre del proyecto]
 
-Breve descripción del proyecto. Puede ser una API, una app de escritorio, un sistema CRUD o cualquier proyecto personal relevante.
-
-**Stack:** ASP.NET Core, Entity Framework, PostgreSQL
-
----
-
-### 📌 [Nombre del proyecto]
-
-Proyecto orientado a practicar arquitectura, patrones de diseño o consumo de APIs.
+Aplicación de escritorio WinForms desarrollada en .NET, orientada a la gestión de artículos mediante operaciones completas de tipo CRUD (ABM) usando conexión a DB con SQL Server Management Studio 2022. Se realiza como trabajo integrador final para la aprobación del curso Nivel 2 de Maxi Programa.
 
 **Stack:** .NET, REST APIs, Git
 
@@ -65,7 +74,8 @@ Proyecto orientado a practicar arquitectura, patrones de diseño o consumo de AP
 
 ## Sobre mí
 
-Además de programar, me interesan mucho la filosofía, la literatura y el cine.
+Además de programar, me interesan mucho las distintas disciplinas de las humanidades: la Historia, la Filosofía, la literatura y el cine.
+Por esa razón, antes de dedicarme al mundo del software realicé y completé una formación en Historia de nivel universitario en la Universidad de Buenos Aires (UBA).
 
 También disfruto aprender de manera transversal: muchas veces termino conectando ideas de historia, filosofía o arte con la forma en que pienso el desarrollo de software.
 
