@@ -1,8 +1,7 @@
 
 # Hola, soy Juan 👋
 
-Desarrollador backend orientado al ecosistema .NET y C#, con interés en construir software claro, mantenible y con utilidad real.  
-Vengo de una formación en Historia y humanidades, algo que influye bastante en mi forma de pensar el desarrollo: entender los problemas antes de escribir código.
+Soy un desarrollador orientado al ecosistema .NET y C#. Vengo de una formación vinculada a las ciencias sociales y la enseñanza, algo que terminó influyendo bastante en mi forma de pensar el desarrollo: me interesa entender los problemas antes de escribir código, por eso me mantengo en constante formación, y mí objetivo principal es que las soluciones que pueda diseñar tengan utilidad y valor social. Actualmente trabajo principalmente con tecnologías del ecosistema Microsoft y sigo profundizando en buenas prácticas de desarrollo, arquitectura y herramientas modernas y necesarias.
 
 ---
 
@@ -66,14 +65,18 @@ Aplicación de escritorio desarrollada en .NET y SQL Server como proyecto integr
 
 ## 📚 Actualmente
 
-- Profundizando en desarrollo backend con .NET
+- Profundizando en desarrollo backend con .NET en ASP.NET MVC
 - Mejorando conocimientos de arquitectura y patrones
 - Construyendo proyectos personales
+  
+---
+## Sobre mí 
 
+Además de programar, me interesan mucho las distintas disciplinas de las humanidades: la Historia, la Filosofía, la literatura y el cine. Por esa razón, antes de dedicarme al mundo del software realicé y completé una formación en Historia de nivel universitario en la Universidad de Buenos Aires (UBA). También disfruto aprender de manera transversal: muchas veces termino conectando ideas de historia, filosofía o arte con la forma en que pienso el desarrollo de software.
 ---
 
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPerrotat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-perrotat/)
-```
+
