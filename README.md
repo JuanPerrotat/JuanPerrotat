@@ -73,6 +73,7 @@ Aplicación de escritorio desarrollada en .NET y SQL Server como proyecto integr
 ## Sobre mí 
 
 Además de programar, me interesan mucho las distintas disciplinas de las humanidades: la Historia, la Filosofía, la literatura y el cine. Por esa razón, antes de dedicarme al mundo del software realicé y completé una formación en Historia de nivel universitario en la Universidad de Buenos Aires (UBA). También disfruto aprender de manera transversal: muchas veces termino conectando ideas de historia, filosofía o arte con la forma en que pienso el desarrollo de software.
+
 ---
 
 ## 📫 Contacto
