@@ -78,6 +78,6 @@ Además de programar, me interesan mucho las distintas disciplinas de las humani
 
 ## 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPerrotat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Juan-blue?style=for-the-badge&logo=github)](https://juanperrotat.github.io/portfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-perrotat/)
 
